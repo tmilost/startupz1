@@ -21,3 +21,10 @@ code {
     monospace;
 }
 
+@font-face {
+  font-family: "circularStd";
+  src: local("circularStd"),
+   url("./fonts/circularStd/circular-std-medium-500.ttf") format("truetype");
+  font-weight: bold;
+ }
+
