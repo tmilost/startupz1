@@ -1,3 +1,6 @@
+# Link to Figma
+https://www.figma.com/file/GIrurcGtyHKB5hCkZB4cqM/Startupz---Landing-page?node-id=0%3A1&mode=dev
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
